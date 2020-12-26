@@ -1,2 +1,1 @@
-# utils-shallowEqualObjects
-Shallow equal objects
+# Various Typescript utilities
