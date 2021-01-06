@@ -1,3 +1,4 @@
-# Various Typescript utilities
+# Всякие полезные TypeScript утилиты
 
-* shallowEqualObjects.ts 
+* shallowEqualObjects.ts — поверхностное сравнение объектов
+* EventBus.ts — шина событий
