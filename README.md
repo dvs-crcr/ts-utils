@@ -1,7 +1,9 @@
 # Набор полезных утилит
 
 ## Установка
-`npm i @crcr/utils`
+```bash
+$ npm i @crcr/utils
+```
 
 ---
 
