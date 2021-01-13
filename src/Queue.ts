@@ -4,7 +4,7 @@ type queueNodeType = {
   prev: queueNodeType | null
 } | null;
 
-export class Queue {
+export default class Queue {
   public size: number = 0;
   public head: queueNodeType = null;
   public tail: queueNodeType = null;
