@@ -1,0 +1,23 @@
+{
+  "name": "@crcr/utils",
+  "version": "1.0.0",
+  "description": "usefull js utils",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvs-crcr/ts-utils.git"
+  },
+  "keywords": [
+    "javascipt",
+    "typescript",
+    "utils"
+  ],
+  "author": "dvs <dvs@crcr.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvs-crcr/ts-utils/issues"
+  },
+  "homepage": "https://github.com/dvs-crcr/ts-utils#readme"
+}
