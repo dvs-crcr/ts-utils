@@ -9,12 +9,20 @@ $ npm i @crcr/utils
 ---
 
 ## Список утилит
+* `Queue` — простая реализация очереди.
 * `EventBus` — шина событий;
 * `shallowEqualObjects` — поверхностное сравнение объектов;
 * `isEqual` — сравнение объектов;
 * `mergeObjects` — объединение объектов;
-* `Queue` — простая реализация очереди.
 
+### Queue
+### EventBus
+### shallowEqualObjects
+### isEqual
+### mergeObjects
+
+## TODO
+* добавить описания и примеры к утилитам
 
 ## License
 
